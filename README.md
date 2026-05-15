@@ -112,4 +112,4 @@ Through this project, I gained hands-on exposure to:
 ---
 
 ## Acknowledgement
-Special thanks to my friend Aahana for helping with some of the research aspects and discussions around explainability techniques and medical imaging workflows.
+Special thanks to my friends Tanish and Aahana for helping with some of the research aspects and discussions around explainability techniques and medical imaging workflows.
