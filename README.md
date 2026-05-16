@@ -108,6 +108,7 @@ Through this project, I gained hands-on exposure to:
 - Improve preprocessing pipeline
 - Deploy using Streamlit
 - Experiment with larger EfficientNet variants
+- Also use Messier data to mimic real world scenarios
 
 ---
 
